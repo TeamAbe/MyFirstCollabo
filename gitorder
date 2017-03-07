@@ -1,0 +1,8 @@
+add some code
+git status
+git commit -A || git add (filename)
+git status
+git commit -m "enter a message"
+git push origin master
+MAKE PULL REQUEST
+git pull upstream master
